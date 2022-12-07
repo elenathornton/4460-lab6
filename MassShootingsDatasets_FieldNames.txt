@@ -1,0 +1,29 @@
+Data: Mass Shootings in the US 1982-2022
+Data source: Mother Jones (Downloaded 11/12/2022)
+URL: https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/
+Records: n = 134 
+
+Fields that are generally clean (field names in upper case)
+Case
+Location
+Date
+Year
+Fatalities
+Injuries
+Total Victims
+Location Type
+Type
+Age
+Race
+Gender
+Latitude
+Longitude
+
+Fields that require some more cleaning (field  names in lower case)
+summary
+prior_signs_mental_health_issues
+mental_health_details
+weapon
+weapons_obtained_legally
+where_obtained
+weapon_details
