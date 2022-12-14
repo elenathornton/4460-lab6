@@ -14,6 +14,8 @@ def main():
     print(len(dataset))
     print(len(pd.read_csv('MassShootingsDatabase_1982_2022_postoncanvas.csv')))
     
+    print()
+    
         
 
     export = dataset[export_columns].copy() # strip columns    
